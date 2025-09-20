@@ -5,14 +5,35 @@ This helps catch bugs,enforce coding standards,and improve collaboration for mor
 
 ## Befor reviewing somone's code
 
-* ### Have an open mind set
-* ### Growth mindset
-* ### Mostly ask quesions
-* ### Message code Author
+* #### Leave your ego at the door
+* #### Have an open mind set
+* #### Growth mindset
+* #### Mostly ask quesions
+* #### Message code Author
 
 ## Read the description
 
-* ### Questions aready answered
+* #### Questions aready answered
 
 ## straight forward changes
 
+(i) smaller changes
+(ii) Language features
+(iii) Unit tests are correct
+(iv) Just suggestions
+(v) Question susiness requirerments
+(vi) Compliment good code
+ 
+ ## In-depth code reviews
+
+* Pull down changes
+* Manually test changes
+* Is code easy to follow 
+
+## Decide outcome of review
+
+* #### Approve 70% of changes
+
+* #### Comment 20% of changes
+
+* #### Request changes for remaining 10%
