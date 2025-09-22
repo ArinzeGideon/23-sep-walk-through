@@ -1,5 +1,6 @@
  # Git hub collaboration
 
+feat/23-sep
 ## Github collaboration is the way different people can work on the same project together.
 
 #### This means that the people added to the collaborator's list can push,merge, and do other kinds of similar things on the project.
@@ -21,3 +22,5 @@
 #### 7. Pull Requests: When a collaborator wants to merge their changes into the main codebase, they create a pull request. This allows for code review, discussion, and approval by other team members before the changes are integrated.
 
 #### 8. Issue Tracking and Discussions: GitHub provides features like issues to track bugs, feature requests, and tasks, and discussions for broader conversations about the project.
+ 
+ main
